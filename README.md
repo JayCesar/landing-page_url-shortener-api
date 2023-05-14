@@ -44,7 +44,7 @@ The page function is to shorten a link entered by the user. Some key features of
 ***
     
 ## ▶️ How to access it?
-You just need to click ➙ <b><a href="https://jaycesar.github.io/page_url-shortener-api/"> Url Shortener API </a></b>
+You just need to click ➙ <b><a href="https://jaycesar.github.io/page_url-shortener-api/src/"> Url Shortener API </a></b>
 
 ***
 
