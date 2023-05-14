@@ -50,7 +50,7 @@ You just need to click ➙ <b><a href="https://jaycesar.github.io/page_url-short
 
 ## ⚠️ Important
 This page was developed by me in 2022 when I was working in a startup and I had to learn new features, that's why there are no commits from its development. However, here is the link to
-my solution upload in **Front-end mentor** site:
+my solution upload in **Front-end Mentor** site:
 
 **My solution** ➙ <b><a href="https://www.frontendmentor.io/solutions/i-used-tailwind-bfG2t6IFtA"> Challenge Upload on Front-end Mentor </a></b>
     
