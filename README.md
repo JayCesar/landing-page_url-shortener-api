@@ -52,7 +52,7 @@ You just need to click ➙ <b><a href="https://jaycesar.github.io/page_url-short
 This page was developed by me in 2022 when I was working in a startup and I had to learn new features, that's why there are no commits from its development. However, here is the link to
 my solution upload in **Front-end mentor** site:
 
-**My solution** ➙ <b><a href="https://www.frontendmentor.io/solutions/i-used-tailwind-bfG2t6IFtA"> Challenge Upload on Front-end mentor </a></b>
+**My solution** ➙ <b><a href="https://www.frontendmentor.io/solutions/i-used-tailwind-bfG2t6IFtA"> Challenge Upload on Front-end Mentor </a></b>
     
 **My post about it on Linkeddin** ➙ <b><a href="https://www.linkedin.com/posts/jc-batista_frontend-github-tailwindcss-activity-6978008247060303872-6oWI?utm_source=share&utm_medium=member_desktop"> Linkedin Post </a></b>
 
